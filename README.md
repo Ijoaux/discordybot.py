@@ -1,5 +1,5 @@
 This Discord Bot is possess some commands such as:
--comparing images
--memes
--generating random duck images
+/n-comparing images
+/n-memes
+/n-generating random duck images
 -
